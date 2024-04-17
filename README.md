@@ -1,2 +1,2 @@
 # hello-world
-my name is zina , student  in the higher Institute of computer science 
+My name is Zina, student  at the Higher Institute of Computer Science 
